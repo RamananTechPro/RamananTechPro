@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramanan Subramanian</h1>
 <h3 align="center"> An experienced Consultant with robust knowledge in Software Architecture, Products, Process, and GRC 👨‍💻 working since 2014</h3>
-<p align="left"> <img src="https://miro.medium.com/v2/1*6ge3gXH51icSvin7oV-4-Q.png" alt="raamanalyst" />   </p>
+<p align="left"> <img src="https://miro.medium.com/v2/1*6ge3gXH51icSvin7oV-4-Q.png" alt="ramanantechpro" />   </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanantechpro&label=Profile%20views&color=0e75b6&style=flat" alt="RamananTechPro" /> </p>
