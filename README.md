@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramanan Subramanian</h1>
+<h1 align="center">Hi 👋, This is Ramanan Subramanian</h1>
 <h3 align="center"> An experienced Consultant with robust knowledge in Software Architecture, Products, Process, and GRC 👨‍💻 working since 2014</h3>
 <p align="left"> <img src="https://img.freepik.com/free-vector/user-research-concept-illustration_114360-8313.jpg?w=740&t=st=1712020955~exp=1712021555~hmac=da6fcddf5ac9d34458ac3cf1ebe1d75113a35d6bce4a4b915293da3ec1ade5ee" alt="ramanantechpro" />   </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamananTechPro](https://github.com/RamananTechPro)
 
-- 🔭 I'm a Certified ***Cloud Solutions Architect, ISO 27001 Lead Auditor, ISO 22301 Lead Implementer, Lean Practitioner, Lean Six Sigma Green Belt, and Agile Scrum Master***
+- 🔭 I'm a Certified ***Cloud Solutions Architect, ISO 27001 Lead Auditor, ISO 22301 Lead Implementer, Certified in Cybersecurity from ISC2, Lean Practitioner, Lean Six Sigma Green Belt, and Agile Scrum Master***
 
 - 📝 I regularly write articles on [https://ramanantechpro.medium.com/](https://ramanantechpro.medium.com/)
 
